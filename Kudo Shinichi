@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KudoShinichi</title>
+    <link rel="stylesheet" href="./resources/css/index.css">
+</head>
+<body>
+    
+    <div class="banner">
+        <h1>Kudo Shinichi</h1>
+        <img id="kudo-image" src="./resources/images/98622feafd4ae4f4c589a75c7c950f76.jpg" alt="">
+        <p>Su that chi co 1</p>
+        <button>Chi tiet</button>
+    </div>
+
+    <div>
+        <span class="bold" id="kudo">Kudo</span>
+        <p class="bold">I am a detective</p>
+        <form action="">
+            <input type="text">
+            <input type="submit" value="Submit">
+        </form>
+        <div>
+            <ul>
+                <li>
+                    <div><span>Kudo Shinichi 1</span></div>
+                </li>
+                <li>
+                    <div><span>Kudo Shinichi 2</span></div>
+                </li>
+                <li>
+                    <div><span>Kudo Shinichi 3</span></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
